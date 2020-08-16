@@ -1,0 +1,27 @@
+body{
+  width : 500px;
+  height : 300px;
+}
+.input{
+  font-size : 2rem;
+  text-align : center;
+  background-color : rgb(250, 224, 218);
+  margin : 1rem;
+}
+.input1, .input2{
+  font-size: 1.5rem;
+  line-height : 1.5rem;
+}
+input{
+  width : 5rem;
+  height : 2rem;
+}
+.result1, .result2{
+  font-size : 1.5rem;
+  width : 100%;
+  display : inline-block;
+
+}
+.result1 div, .result2 div{
+    background-color : rgb(186, 216, 255);
+}
